@@ -103,16 +103,7 @@
 </p>
 
 ## ❤️ Ranking, Views & Followers
-<p align="center">
-
-<a href="https://stardev.io/developers/nagarjun-Avala">
-<img alt="Check out nagarjun-Avala's profile on stardev.io" src="https://stardev.io/developers/nagarjun-Avala/badge/languages/global.svg" /></a>
-<br><br>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=nagarjun-Avala">&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/nagarjun-Avala?tab=followers">
-<img src="https://img.shields.io/github/followers/nagarjun-Avala?label=Followers&style=social" alt="GitHub Badge" /></a>
-</p>
-
+[![Check out nagarjun-Avala's profile on stardev.io](https://stardev.io/developers/nagarjun-Avala/badge/languages/global.svg)](https://stardev.io/developers/nagarjun-Avala)
 
 ## 🧮 Visitors Count
 <p align="center">
