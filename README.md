@@ -20,7 +20,7 @@
 
 - 👯  : I want to contribute as **[Web Developer]()**
 
-- 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/nagarjun-Avala?tab=repositories)**
+- 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/nagarjun-avala?tab=repositories)**
 
 - 📫  : How to reach me **[nagarjun.avala.official@gmail.com]()**
 
@@ -58,7 +58,7 @@
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
-                <img src="https://streak-stats.demolab.com?user=nagarjun-Avala&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
+                <img src="https://streak-stats.demolab.com?user=nagarjun-avala&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
             </td>
         </tr>
    </table>
@@ -70,11 +70,11 @@
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nagarjun-Avala&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+            <img alt="Md. Siam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nagarjun-avala&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjun-Avala&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+            <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Md. Siam's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagarjun-avala&langs_count=8.0&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
             </a>
         </td>
     </tr>
@@ -86,7 +86,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Md. Siam's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nagarjun-Avala&theme=react-dark&hide_border=true" />
+            <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Md. Siam's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nagarjun-avala&theme=react-dark&hide_border=true" />
             </a>
         </td>
     </tr>
@@ -103,9 +103,9 @@
 </p>
 
 ## ❤️ Ranking, Views & Followers
-[![Check out nagarjun-Avala's profile on stardev.io](https://stardev.io/developers/nagarjun-Avala/badge/languages/global.svg)](https://stardev.io/developers/nagarjun-Avala)
+[![Check out nagarjun-avala's profile on stardev.io](https://stardev.io/developers/nagarjun-avala/badge/languages/global.svg)](https://stardev.io/developers/nagarjun-avala)
 
 ## 🧮 Visitors Count
 <p align="center">
-<img align="center" src = "https://profile-counter.glitch.me/nagarjun-Avala/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/nagarjun-avala/count.svg" alt ="Loading">
 </p>
