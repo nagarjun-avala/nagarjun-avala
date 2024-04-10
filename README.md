@@ -10,7 +10,7 @@
 </h4>
     
 ## 🙋‍♂️ About Me
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
+<img align="right" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/10/nextjs-featured-image--1-.png" height="260"> </img>
 - 🔭  : I’m currently searching for new **Job**
 
 - 🌱  : I’m currently learning **[Next Js](https://nextjs.org/)**
