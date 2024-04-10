@@ -10,7 +10,7 @@
 </h4>
     
 ## 🙋‍♂️ About Me
-<img align="right" src="https://blog.logrocket.com/wp-content/uploads/2023/01/import-svgs-next-js-app.png" height="260"> </img>
+<img align="right" src="https://media.licdn.com/dms/image/D4E12AQEIIDCbb5draA/article-cover_image-shrink_720_1280/0/1696065152678?e=1718236800&v=beta&t=eqPtMzLEqQjVpJT-OHA5TaAY6g2dbvm7DMh4cCP4JJc" height="260"> </img>
 - 🔭  : I’m currently searching for new **Job**
 
 - 🌱  : I’m currently learning **[Next Js](https://nextjs.org/)**
