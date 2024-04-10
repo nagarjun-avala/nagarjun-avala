@@ -1,7 +1,5 @@
 <a href="#"><img style="align:center;" width="100%" height="auto" src="https://i.imgur.com/v0ae8WM.png" /></a>
 
-
-
 ## Hi 👋,  I'm Nagarjun Avala
     
 <h4 align="left">
@@ -41,8 +39,6 @@
     <a href="https://www.apachefriends.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/XAMPP_logo.svg/220px-XAMPP_logo.svg.png" title="XAMPP" width="41" height="41"/>&nbsp;&nbsp;</a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="43" height="43"/>&nbsp;&nbsp;</a>
     <a href="https://github.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" title="GitHub" width="43" height="43"/>&nbsp;&nbsp;</a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png" title="Dart"/> </a>
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/> </a> 
 </p>
 
 
