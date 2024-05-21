@@ -15,7 +15,7 @@
 
 - 🌱  : I’m currently learning **[Next Js](https://nextjs.org/)**
 
-- 👯  : I want to contribute as **[Web Developer]()**
+- 👯  : I want to contribute as **[Web Developer]() and [Software Developer]()**
 
 - 👨‍💻  : Few of my projects are available at **[My GitHub](https://github.com/nagarjun-avala?tab=repositories)**
 
