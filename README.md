@@ -53,6 +53,7 @@
         <tr>
             <td>
                 <a href="https://git.io/streak-stats">
+                    [![GitHub Streak](https://streak-stats.demolab.com?user=nagarjun-avala&theme=dark&background=45%2CEB5454%2CEB0000)](https://git.io/streak-stats)
                 <img src="https://streak-stats.demolab.com?user=nagarjun-avala&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub Streak" /></a>
             </td>
         </tr>
