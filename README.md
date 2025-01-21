@@ -45,24 +45,9 @@
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)  
 
-
-<br/>
-
-<p align="center">
-    <table align="center">
-        <tr>
-            <td>
-                <a href="https://git.io/streak-stats">
-                    <img src="https://streak-stats.demolab.com?user=nagarjun-avala&theme=dark&background=45%2CEB5454%2CEB0000" alt="GitHub Streak" />
-                </a>
-            </td>
-        </tr>
-   </table>
-</p>
-
 ## 📊 My Github Stats
 
-<table>
+<table align="center">
     <tr>
         <td>
             <a href="https://github.com/anuraghazra/github-readme-stats">
